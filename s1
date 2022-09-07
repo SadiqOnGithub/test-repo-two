@@ -1,3 +1,7 @@
 this is a good file 
 
+<<<<<<< HEAD
 adding something to the dev branch
+=======
+adding this to ab branch
+>>>>>>> 7c09ac39429ad76ca6add187cb95c1819a5d5849
