@@ -5,3 +5,5 @@ this project will be uploaded to gitHub repo from local machine
 ## some mroe info about projects
 
 detailed discription
+
+adding changes in redme file for main branch
